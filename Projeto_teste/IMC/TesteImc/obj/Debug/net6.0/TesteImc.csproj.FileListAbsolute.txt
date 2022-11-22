@@ -1,0 +1,12 @@
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\bin\Debug\net6.0\TesteImc.deps.json
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\bin\Debug\net6.0\TesteImc.dll
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\bin\Debug\net6.0\TesteImc.pdb
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.AssemblyInfo.cs
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.dll
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\refint\TesteImc.dll
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\TesteImc.pdb
+C:\Users\55119\Documents\testes_backend\Projeto_teste\IMC\TesteImc\obj\Debug\net6.0\ref\TesteImc.dll
